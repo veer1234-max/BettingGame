@@ -4,4 +4,4 @@ Live app - https://betting-game-wo11.vercel.app/
 
 Tech: Python
 
-Created a fun command-line entertainment platform containing multiple mini-games, including Number Guessing, Password Generator, Rock Paper Scissors, Math Quiz, and Hangman.
+Developed a console-based slot machine betting simulator with balance deposits, paylines, betting logic, winnings calculations, and randomised symbol generation.
